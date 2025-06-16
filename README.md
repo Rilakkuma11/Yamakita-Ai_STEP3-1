@@ -1,7 +1,5 @@
 # Yamakita-Ai_STEP3-2
 
-設問２
-
 <!DOCTYPE html>
 <html lang="ja">
 <head>
